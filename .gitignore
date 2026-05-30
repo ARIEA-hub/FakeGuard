@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Data & large model artefacts (do NOT commit)
+data/raw/
+data/processed/
+models/saved/
+models/metrics/*.json   # generated — regenerate from training
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Test coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter (optional exploratory work)
+.ipynb_checkpoints/

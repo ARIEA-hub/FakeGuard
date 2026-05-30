@@ -1,0 +1,8 @@
+{
+  "model_name": "linear_svc",
+  "accuracy": 0.9977,
+  "precision": 0.9977,
+  "recall": 0.9977,
+  "f1_score": 0.9977,
+  "roc_auc": 1.0
+}

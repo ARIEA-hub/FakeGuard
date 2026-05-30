@@ -1,0 +1,8 @@
+{
+  "model_name": "gradient_boosting",
+  "accuracy": 0.9963,
+  "precision": 0.9963,
+  "recall": 0.9963,
+  "f1_score": 0.9963,
+  "roc_auc": 0.9991
+}
